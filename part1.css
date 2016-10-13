@@ -51,7 +51,8 @@ table, th, td {
 img {
 	display: block;
 	margin: auto;
-	width: 50%;
+	height: auto;
+	width: auto;
 	text-align: center;
 	border: 3px solid #3E1819;
 	border-radius: 5%;

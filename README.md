@@ -33,7 +33,7 @@ Published: ©2016 DeviantArt. All rights reserved
 
 Title: cover.jpg
 URL: view-source:http://www.gutenberg.org/files/53256/53256-h/images/cover.jpg
-Author: 
+Author: Unknown
 Published: Produced by ellinora and The Online Distributed Proofreading
 Team. Images generously made available by The Internet Archive
 
@@ -81,9 +81,13 @@ div
 	- increase margins left and right to 5em
 	- change color of text to greyish (#332D2D)
 
+Part 2 CSS Assets 
+=================
 
-
-
+Title: wall-stickers-flowers-kids-2.jpg
+URL: http://www.homeofficedecoration.net/wall-stickers-flowers-kids/
+Author: unknown
+Published: © HOMEOFFICEDECORATION
 
 
 
