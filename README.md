@@ -101,6 +101,11 @@ URL: http://stackoverflow.com/questions/1122381/how-to-force-child-div-to-100-of
 Author: Travis
 Published:  © 2016 Stack Exchange Inc
 
+Title: How to center a navigation bar with CSS or HTML?
+URL: http://stackoverflow.com/questions/5995405/how-to-center-a-navigation-bar-with-css-or-html
+Author: morgar
+Published:  © 2016 Stack Exchange Inc
+
 Collaboration
 =============
 

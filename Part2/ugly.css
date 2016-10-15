@@ -1,0 +1,78 @@
+
+h1 {
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+
+h2 {
+    font-family: Comic Sans MS;
+
+}
+
+img {
+    border-style: solid;
+    border-radius: 75%;
+    border-color: pink;
+    text-align: center;
+    float: left;
+}
+
+.top {
+	background: blue;
+    text-align:center;
+}
+
+
+li a {
+    display: inline-block;
+    font-family: Comic Sans MS;
+    padding: 14px 16px;
+    background-color: orange;
+}
+
+#nav {
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#nav li{
+	display:inline-block;
+}
+
+.body {
+    width: 75%;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+}
+
+.facts {
+    float: right;
+    width: 25%;
+    height: 100%;
+    background-color: yellow;
+    font-family: Comic Sans MS;
+}
+
+
+html,body{
+    height: 100%;
+}
+
+#pink{
+    background-color:pink;
+    background-size: 30em, 30em;
+    border: solid pink;
+    border-radius: 75%;
+}
+
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.15, #f2f), color-stop(0.3, #22f), color-stop(0.45, #2ff), color-stop(0.6, #2f2),color-stop(0.75, #2f2), color-stop(0.9, #ff2), color-stop(1, #f22) );
+  color:transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
